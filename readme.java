@@ -1,7 +1,7 @@
 class readme{
   private int num ;
   private String person ;
-  public void String tell(String person,int num){
+  public void tell(String person,int num){
   this.person = person;
   this.num = num;
   System.out.println("Hello World,"+person+"you are the "+num+"th vister!")
